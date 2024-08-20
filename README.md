@@ -1,4 +1,4 @@
-# ADP Workforce Now Project
+# ADP Workforce Now
 
 ADP Workforce Now is an all-in-one human capital management (HCM) solution designed to streamline and automate HR processes for businesses of all sizes. It integrates various functionalities such as payroll, time and attendance, talent management, benefits administration, and compliance into a single, cohesive platform.
 
@@ -19,12 +19,12 @@ One of the key features of ADP Workforce Now is its ability to automate routine 
 - **Git**: For version control.
 
 ## Author
-- **Name**: Mauricio Lavoie  
-- **Email**: mauricio.lavoie89@outlook.com  
+- **Name**: Rebecca Flores  
+- **Email**: floresrebecca56@outlook.com  
 - **Website**: adp workforce now
-- Mauricio Lavoie is an experienced software developer with a strong background in web development and human capital management systems.
+- Rebecca Flores is an experienced software developer with a strong background in web development and human capital management systems.
 - With over a decade of experience, Mauricio excels in coding, problem-solving, and mentoring.
-- His passion for technology and helping others drives him to create efficient, user-friendly solutions.
+- Her passion for technology and helping others drives him to create efficient, user-friendly solutions.
 
 ## Getting Started
 
